@@ -1,0 +1,16 @@
+C:\Users\ADMIN\source\repos\RestaurantApp\RestaurantApp\RestaurantApp\obj\Debug\netstandard2.0\RestaurantApp.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\RestaurantApp\RestaurantApp\RestaurantApp\obj\Debug\netstandard2.0\RestaurantApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\RestaurantApp\RestaurantApp\RestaurantApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ADMIN\source\repos\RestaurantApp\RestaurantApp\RestaurantApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ADMIN\source\repos\RestaurantApp\RestaurantApp\RestaurantApp\obj\Debug\netstandard2.0\RestaurantApp.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\RestaurantApp\RestaurantApp\RestaurantApp\obj\Debug\netstandard2.0\RestaurantApp.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\RestaurantApp\RestaurantApp\RestaurantApp\obj\Debug\netstandard2.0\RestaurantApp.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\RestaurantApp\RestaurantApp\RestaurantApp\bin\Debug\netstandard2.0\RestaurantApp.deps.json
+C:\Users\ADMIN\source\repos\RestaurantApp\RestaurantApp\RestaurantApp\bin\Debug\netstandard2.0\RestaurantApp.dll
+C:\Users\ADMIN\source\repos\RestaurantApp\RestaurantApp\RestaurantApp\bin\Debug\netstandard2.0\RestaurantApp.pdb
+C:\Users\ADMIN\source\repos\RestaurantApp\RestaurantApp\RestaurantApp\obj\Debug\netstandard2.0\OrderPage.xaml.g.cs
+C:\Users\ADMIN\source\repos\RestaurantApp\RestaurantApp\RestaurantApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ADMIN\source\repos\RestaurantApp\RestaurantApp\RestaurantApp\obj\Debug\netstandard2.0\RestaurantApp.dll
+C:\Users\ADMIN\source\repos\RestaurantApp\RestaurantApp\RestaurantApp\obj\Debug\netstandard2.0\refint\RestaurantApp.dll
+C:\Users\ADMIN\source\repos\RestaurantApp\RestaurantApp\RestaurantApp\obj\Debug\netstandard2.0\RestaurantApp.pdb
+C:\Users\ADMIN\source\repos\RestaurantApp\RestaurantApp\RestaurantApp\obj\Debug\netstandard2.0\ref\RestaurantApp.dll
